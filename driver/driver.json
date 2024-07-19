@@ -1,0 +1,30 @@
+[
+    {
+        "license_id": "3",
+        "region_id": "999",
+        "price_per_month": "7",
+        "minimum_stay_month":"3",
+        "desc": "价格季付22元、半年付42元、年付80元、地区: 印度；交易: 可通过闲鱼，放心交易保障: 拉入微信群"
+    },
+    {
+        "license_id": "5",
+        "region_id": "4",
+        "price_per_month": "5",
+        "minimum_stay_month":"6",
+        "desc": "- 价格: 现在付24元用到今年底账号要求: 自备未锁区账号或美国地区账号（可有偿提供未锁区谷歌账号）特点: 跳车不退,附带YouTube Music保障: 拉入微信群，翻车退按比例尾款"
+    },
+    {
+        "license_id": "1",
+        "region_id": "999",
+        "price_per_month": "14",
+        "minimum_stay_month":"2",
+        "desc": "- 价格: 这一季付20元用到9月1日(季付40元,年付130元)地区: 不限制设备: 电视端仅允许Apple Tv,其他设备不限制特点: 可自行设置独立PIN,4K Plan保障: 拉入微信群，翻车按比例退款"
+    },
+    {
+        "license_id": "1",
+        "region_id": "2",
+        "price_per_month": "15",
+        "minimum_stay_month":"2",
+        "desc": "- 价格: 这一季付21.5元用到9月1日(季付45元)地区: 不限制节点（香港地区不可使用），稳定一个即可设备: 4K Plan,可自行设置独立PIN保障: 拉入微信群，翻车按比例退款"
+    }
+]
